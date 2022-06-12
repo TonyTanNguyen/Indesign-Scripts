@@ -1,3 +1,10 @@
+//Usage
+//1. Create new document (A4 is better)
+//2. Create a small perfect oval. This will be food
+//3. Create a rectangle (same dimension with oval is better)
+//4. Run the script. A dialog box will appear as a constroler: press Up/Down/Left/Right to change direction of the snake. Press 'C' to stop the game
+// If you can't stop the game, let the snake hit the right wall. If none is working, force quit Indesign :
+// Indesign will not render the moving perfectly if your PC is not good enough. So good luck!
 
 //============  1 ==============///
 
